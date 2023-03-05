@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Daniel
+- 👋 Hi, I’m Dragonna
 - 👀 I’m interested in web development with experience using PHP
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently working on projects as a front end developer
 - 💞️ I’m looking to collaborate on web development works just to expand my knowledge
-- 📫 I can be reached via whatsapp +380664799043
+- 📫 I am also looking for collabs in the Web.3 world. That really facinantes me
 
 <!---
 huelight/huelight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
